@@ -1,0 +1,6 @@
+{
+  "name": "Image to Prompt Generator",
+  "description": "Una aplicación web interactiva que analiza imágenes y genera prompts de ingeniería inversa altamente detallados y optimizados para recrearlas mediante IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
